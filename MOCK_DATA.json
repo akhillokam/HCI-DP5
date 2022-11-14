@@ -1,0 +1,181 @@
+[
+    {
+        "id":1,
+        "first_name":"Heart Attack",
+        "icon":"images/heart.jpeg",
+        "video":"https://www.youtube.com/watch?v=gDwt7dD3awc"
+
+    },
+    {
+        "id":2,
+        "first_name":"Heart Attack",
+        "icon":"images/heart.jpeg",
+        "video":"https://www.youtube.com/watch?v=6ZGg0zJUFEI"
+
+    },
+    
+    {
+        "id":3,
+        "first_name":"Heart Attack",
+        "icon":"images/heart.jpeg",
+        "video":"https://www.youtube.com/watch?v=WDh0LdqCeYg"
+
+    },
+
+    
+    {
+        "id":4,
+        "first_name":"Heart Attack",
+        "icon":"images/heart.jpeg",
+        "video":"https://www.youtube.com/watch?v=pl-8vsRKjzo"
+
+    },
+    {
+        "id":5,
+        "first_name":"Heart Attack",
+        "icon":"images/heart.jpeg",
+        "video":"https://www.youtube.com/watch?v=TzWgMn6qcUk"
+
+    },
+    {
+        "id":6,
+        "first_name":"Snake Bite",
+        "icon":"images/snake.jpeg",
+        "video":"https://www.youtube.com/watch?v=lLkw4BXa7pQ"
+
+    },
+    {
+        "id":7,
+        "first_name":"Snake Bite",
+        "icon":"images/snake.jpeg",
+        "video":"https://www.youtube.com/watch?v=CXu23ENOAg4"
+
+    },
+    {
+        "id":8,
+        "first_name":"Snake Bite",
+        "icon":"images/snake.jpeg",
+        "video":"https://www.youtube.com/watch?v=erd53zePPco"
+
+    },
+    {
+        "id":9,
+        "first_name":"Snake Bite",
+        "icon":"images/snake.jpeg",
+        "video":"https://www.youtube.com/watch?v=HUkEZu7lwo4"
+
+    },
+    {
+        "id":10,
+        "first_name":"Snake Bite",
+        "icon":"images/snake.jpeg",
+        "video":"https://www.youtube.com/watch?v=_QOuXCLVlwo"
+
+    },
+    {
+        "id":11,
+        "first_name":"Fainting",
+        "icon":"images/faint.jpeg",
+        "video":"https://www.youtube.com/watch?v=oAUhq3Kr3RY"
+
+    },
+    {
+        "id":12,
+        "first_name":"Fainting",
+        "icon":"images/faint.jpeg",
+        "video":"https://www.youtube.com/watch?v=ddHKwkMwNyI"
+
+    },
+    {
+        "id":13,
+        "first_name":"Fainting",
+        "icon":"images/faint.jpeg",
+        "video":"https://www.youtube.com/watch?v=umQ6rJRzY3E"
+
+    },
+    {
+        "id":14,
+        "first_name":"Fainting",
+        "icon":"images/faint.jpeg",
+        "video":"https://www.youtube.com/watch?v=A5UDTPcznfc"
+
+    },
+    {
+        "id":15,
+        "first_name":"Fainting",
+        "icon":"images/faint.jpeg",
+        "video":"https://www.youtube.com/watch?v=Jkq7IsrHRkQ"
+
+    },
+    {
+        "id":16,
+        "first_name":"Asthma",
+        "icon":"images/asthma.jpeg",
+        "video":"https://www.youtube.com/watch?v=hdVKpUR513M"
+
+    },
+    
+     {
+        "id":17,
+        "first_name":"Asthma",
+        "icon":"images/asthma.jpeg",
+        "video":"https://www.youtube.com/watch?v=zpwjRQQM2pc"
+
+    },
+     {
+        "id":18,
+        "first_name":"Asthma",
+        "icon":"images/asthma.jpeg",
+        "video":"https://www.youtube.com/watch?v=-ha8P77iDAg"
+
+    },
+     {
+        "id":19,
+        "first_name":"Asthma",
+        "icon":"images/asthma.jpeg",
+        "video":"https://www.youtube.com/watch?v=svbSVnyISlc"
+
+    },
+     {
+        "id":20,
+        "first_name":"Asthma",
+        "icon":"images/asthma.jpeg",
+        "video":"https://www.youtube.com/watch?v=R76Za3UDPo0"
+
+    },
+    {
+        "id":21,
+        "first_name":"Electric Shock",
+        "icon":"images/shock.jpeg",
+        "video":"https://www.youtube.com/watch?v=61urGQrmeNM"
+
+    },
+    {
+        "id":22,
+        "first_name":"Electric Shock",
+        "icon":"images/shock.jpeg",
+        "video":"https://www.youtube.com/watch?v=UFvL7wTFzl0"
+
+    },
+    {
+        "id":23,
+        "first_name":"Electric Shock",
+        "icon":"images/shock.jpeg",
+        "video":"https://www.youtube.com/watch?v=luTRnCoeD4c"
+
+    },
+    {
+        "id":24,
+        "first_name":"Electric Shock",
+        "icon":"images/shock.jpeg",
+        "video":"https://www.youtube.com/watch?v=myq7NBgsMD0"
+
+    },
+    {
+        "id":25,
+        "first_name":"Electric Shock",
+        "icon":"images/shock.jpeg",
+        "video":"https://www.youtube.com/watch?v=O2VpgB8Xrzs"
+
+    }
+]
